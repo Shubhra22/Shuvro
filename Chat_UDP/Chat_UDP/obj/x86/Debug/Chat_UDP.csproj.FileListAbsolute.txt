@@ -1,0 +1,9 @@
+G:\MY WORLD\My C#\Chat_UDP\Chat_UDP\bin\Debug\Chat_UDP.exe
+G:\MY WORLD\My C#\Chat_UDP\Chat_UDP\bin\Debug\Chat_UDP.pdb
+G:\MY WORLD\My C#\Chat_UDP\Chat_UDP\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\MY WORLD\My C#\Chat_UDP\Chat_UDP\obj\x86\Debug\Chat_UDP.Form1.resources
+G:\MY WORLD\My C#\Chat_UDP\Chat_UDP\obj\x86\Debug\Chat_UDP.Properties.Resources.resources
+G:\MY WORLD\My C#\Chat_UDP\Chat_UDP\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\MY WORLD\My C#\Chat_UDP\Chat_UDP\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\MY WORLD\My C#\Chat_UDP\Chat_UDP\obj\x86\Debug\Chat_UDP.exe
+G:\MY WORLD\My C#\Chat_UDP\Chat_UDP\obj\x86\Debug\Chat_UDP.pdb
